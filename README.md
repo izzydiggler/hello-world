@@ -1,2 +1,2 @@
-# howdy-world
-first GH repository
+# another howdy-world
+Second GH repository
