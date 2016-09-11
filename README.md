@@ -1,4 +1,3 @@
-THIS IS A TEST!!
+NEW TEST
 
-# another howdy-world
-Second GH repository
+Uploading file to Github
